@@ -1,4 +1,4 @@
-# Packages
+# Inheritance
 
 from task8.cubic_generator import CubicGenerator
 
