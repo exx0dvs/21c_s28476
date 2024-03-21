@@ -1,7 +1,8 @@
-# Function Overriding
-from task9.cubic_generator import CubicGenerator
+# Abstract Elements
 
-firstNum = 11 #1
+from task10.cubic_generator import CubicGenerator
+
+firstNum = 1
 secondNum = 10
 generator = CubicGenerator()
 
